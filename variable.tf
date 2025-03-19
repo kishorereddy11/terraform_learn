@@ -1,0 +1,2 @@
+variable "eks" {}
+variable "env" {}
